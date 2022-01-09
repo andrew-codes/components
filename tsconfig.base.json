@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "jsx": "react",
+    "lib": ["es5", "dom"],
+    "module": "es6",
+    "moduleResolution": "node",
+    "noEmit": true,
+    "noEmitOnError": true,
+    "noImplicitAny": true,
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "target": "es5"
+  },
+  "include": ["**/*.ts", "**/*.tsx"],
+  "exclude": ["node_modules/**"]
+}
