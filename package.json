@@ -7,7 +7,7 @@
     "url": "https://andrew.codes"
   },
   "scripts": {
-    "test": "cypress open-ct --browser chrome"
+    "test": "cypress open-ct --browser electron"
   },
   "devDependencies": {
     "@cypress/react": "^5.12.0",
